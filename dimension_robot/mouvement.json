@@ -1,0 +1,34 @@
+{
+    "motor": [
+        {
+            "id": 1,
+            "vitesse": 0,
+            "acceleration": 0
+        },
+        {
+            "id": 2,
+            "vitesse": 0,
+            "acceleration": 0
+        },
+        {
+            "id": 3,
+            "vitesse": 0,
+            "acceleration": 0
+        },
+        {
+            "id": 4,
+            "vitesse": 540.0,
+            "acceleration": 1620.0
+        },
+        {
+            "id": 5,
+            "vitesse": 540.0,
+            "acceleration": 1620.0
+        },
+        {
+            "id": 6,
+            "vitesse": 0,
+            "acceleration": 0
+        }
+    ]
+}

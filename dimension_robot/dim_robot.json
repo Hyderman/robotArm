@@ -1,0 +1,47 @@
+{
+    "size_robot": [
+        {
+            "length_arm1": [0],
+            "length_arm2": [0],
+            "length_arm3": [0],
+            "length_arm4": [0],
+            "length_arm5": [0],
+            "length_gripper": [0],
+            "weight_motor1": [0],
+            "weight_motor2": [0],
+            "weight_motor3": [0],
+            "weight_motor4": [0],
+            "weight_motor5": [0],
+            "weight_motor6": [0],
+            "weight_arm1": [0],
+            "weight_arm2": [0],
+            "weight_arm3": [0],
+            "weight_arm4": [0],
+            "weight_arm5": [0],
+            "weight_gripper": [0],
+            "weight_object": [0]
+        }
+    ],
+
+    "couple_motor_statique": [
+        {
+            "coupleM1": [0],
+            "coupleM2": [0],
+            "coupleM3": [0],
+            "coupleM4": [0],
+            "coupleM5": [0],
+            "coupleM6": [0]
+        }
+    ],
+
+    "couple_motor_dynamique": [
+        {
+            "coupleM1": [0],
+            "coupleM2": [0],
+            "coupleM3": [0],
+            "coupleM4": [0],
+            "coupleM5": [0],
+            "coupleM6": [0]
+        }
+    ]
+}
