@@ -4007,7 +4007,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -129.20001, y: -17.899994}
+  m_AnchoredPosition: {x: -129.19995, y: -17.900024}
   m_SizeDelta: {x: 250, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2117393614
@@ -4306,8 +4306,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7202193382246124112}
   - component: {fileID: 7370277069399389875}
-  - component: {fileID: 7370277069399389876}
-  - component: {fileID: 7370277069399389877}
   - component: {fileID: 7370277069399389878}
   m_Layer: 0
   m_Name: Main Camera
@@ -4996,48 +4994,6 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!114 &7370277069399389876
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 65702496016991349}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb08cfa0a20d24143827ab3fdf01f737, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  doFocus: 1
-  focusLimit: 100
-  minFocusDistance: 5
-  firstUndoKey: 306
-  secondUndoKey: 122
-  moveSpeed: 0.1
-  rotationSpeed: 2
-  zoomSpeed: 5
-  mouseY: Mouse Y
-  mouseX: Mouse X
-  zoomAxis: Mouse ScrollWheel
-  anchoredMoveKey: 325
-  anchoredRotateKey: 324
---- !u!114 &7370277069399389877
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 65702496016991349}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 07b3343a15687aa4c8e61754d860eca2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _mouseSensitivity: 3
-  _target: {fileID: 0}
-  _distanceFromTarget: 3
-  _smoothTime: 0.2
-  _rotationXMinMax: {x: -40, y: 40}
 --- !u!114 &7370277069399389878
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5053,8 +5009,6 @@ MonoBehaviour:
   mouseSensitivity: 3
   focus: 102
   rotationKey: 324
-  translationKey: 325
-  distanceFromTarget: 3
   zoomSpeed: 5
 --- !u!33 &8566845679055721046
 MeshFilter:
