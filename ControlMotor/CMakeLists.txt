@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24.2)
+project(controlMotor)
+set(CMAKE_CXX_STANDARD 17)
+file(GLOB SOURCES CMAKE_CONFIGURE_DEPENDS "src/*.cpp")
+add_library(controlMotor SHARED ${SOURCES})
+target_include_directories(controlMotor PRIVATE include)

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/logan/Documents/Programmation/robotArm/ControlMotor/build",
+  "command": "C:\\Users\\logan\\scoop\\apps\\llvm\\current\\bin\\clang++.exe -DcontrolMotor_EXPORTS -IC:/Users/logan/Documents/Programmation/robotArm/ControlMotor/include -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++17 -o CMakeFiles\\controlMotor.dir\\src\\main.cpp.obj -c C:\\Users\\logan\\Documents\\Programmation\\robotArm\\ControlMotor\\src\\main.cpp",
+  "file": "C:\\Users\\logan\\Documents\\Programmation\\robotArm\\ControlMotor\\src\\main.cpp"
+},
+{
+  "directory": "C:/Users/logan/Documents/Programmation/robotArm/ControlMotor/build",
+  "command": "C:\\Users\\logan\\scoop\\apps\\llvm\\current\\bin\\clang++.exe -DcontrolMotor_EXPORTS -IC:/Users/logan/Documents/Programmation/robotArm/ControlMotor/include -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++17 -o CMakeFiles\\controlMotor.dir\\src\\readAngle.cpp.obj -c C:\\Users\\logan\\Documents\\Programmation\\robotArm\\ControlMotor\\src\\readAngle.cpp",
+  "file": "C:\\Users\\logan\\Documents\\Programmation\\robotArm\\ControlMotor\\src\\readAngle.cpp"
+}
+]

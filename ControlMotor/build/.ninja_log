@@ -1,0 +1,10 @@
+# ninja log v5
+7	353	6889409849846543	CMakeFiles/controlMotor.dir/src/readAngle.cpp.obj	9c9d2d63504cd2a8
+4	327	6889409849596464	CMakeFiles/controlMotor.dir/src/main.cpp.obj	757ca12256476fca
+353	569	6889409851234540	controlMotor.lib	989e3821a8430ba
+5	330	6889410248016658	CMakeFiles/controlMotor.dir/src/main.cpp.obj	1f0335ae4db5a7fd
+8	356	6889410248277322	CMakeFiles/controlMotor.dir/src/readAngle.cpp.obj	ee1c931b1cb62bd0
+356	849	6889410249173885	controlMotor.dll	d6e4d14c8b35a2f8
+356	849	6889410249173885	controlMotor.lib	d6e4d14c8b35a2f8
+8	470	6889410314587864	controlMotor.dll	d6e4d14c8b35a2f8
+8	470	6889410314587864	controlMotor.lib	d6e4d14c8b35a2f8
