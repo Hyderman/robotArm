@@ -1,5 +1,5 @@
 # ninja log v5
-8	24	0	C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/cmake.verify_globs	628ea03a99d07eba
+6	19	0	C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/cmake.verify_globs	628ea03a99d07eba
 31	301	6975905912727650	CMakeFiles/firmware.dir/Core/Src/system_stm32f4xx.c.obj	24e186a0afbb9886
 23	38	0	clean	dc65a53bf16d104b
 286	520	6975905915077667	CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	d215255f2359292
@@ -21,10 +21,6 @@
 342	554	6975905915427649	CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	33a509cc45385a39
 301	550	6975905915387653	CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	9f2817d10561cd75
 291	572	6975905915607667	CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	9ba0fded1b7dab74
-22	233	6977547847208678	CMakeFiles/firmware.dir/RobotArm/kinematic.cpp.obj	13bd5ba8995f5bba
-242	396	6977558296969392	firmware.elf	a80180c54e7db3a
-26	242	6977558295879394	CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj	dd11a75545aa9b8c
-6	19	0	C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/cmake.verify_globs	628ea03a99d07eba
-25	217	6977596972850723	CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj	dd11a75545aa9b8c
 22	222	6977596972910716	CMakeFiles/firmware.dir/RobotArm/kinematic.cpp.obj	13bd5ba8995f5bba
 222	375	6977596973960710	firmware.elf	a80180c54e7db3a
+25	217	6977596972850723	CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj	dd11a75545aa9b8c
