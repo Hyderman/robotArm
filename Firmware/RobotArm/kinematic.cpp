@@ -3,9 +3,6 @@
 #include <array>
 #include <cstring>
 
-template <typename T1, typename T2, typename Tout>
-void prodMatrix(const T1& mat1, const T2& mat2, Tout& resMatrix) {}
-
 void generalTransform(const DhParameters& dh,
                       std::array<TransformMatrix, 6>& robotTransforms,
                       JointAngle& angle) {

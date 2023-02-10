@@ -31,7 +31,8 @@ void generalTransform(const DhParameters& dh,
                       std::array<TransformMatrix, 6>& robotTransforms,
                       JointAngle& angle);
 
-void getGlobalTransformMatrix(const std::array<TransformMatrix, 6>& transformMatrices, globalTransformMatrix& t0x);
+void getGlobalTransformMatrix(const std::array<TransformMatrix, 6>& transformMatrices,
+                              globalTransformMatrix& t0x);
 
 template <typename T, size_t ROWS, size_t COLUMNS>
 void matrixProduct(const std::array<std::array<T, COLUMNS>, ROWS>& matrix1,
