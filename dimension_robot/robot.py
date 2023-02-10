@@ -15,6 +15,7 @@ class Robot:
 
     def changeLength(self, num_arm, value):
         self.dim_robot["size_robot"][0][f"length_arm{num_arm}"] = value
+        print(self.dim_robot["size_robot"][0][f"length_arm{num_arm}"])
         with open("dim_robot.json", "w") as jsonFile:
             json.dump(self.dim_robot, jsonFile)
         self.df_size_robot[f"length_arm{num_arm}"] = value
@@ -71,11 +72,16 @@ class Robot:
             )
             * self.df_size_robot["weight_gripper"]
         )
+        self.dim_robot["couple_motor_statique"][0]["coupleM2"] = self.df_couple_statique["coupleM2"]
+        print(self.dim_robot["couple_motor_statique"][0]["coupleM2"][0])
         self.df_couple_statique["coupleM3"] = self.df_couple_statique["coupleM2"] - (
             self.df_size_robot["length_arm2"] * self.df_size_robot["weight_motor3"]
             + (self.df_size_robot["length_arm2"] / 2)
             * self.df_size_robot["weight_arm2"]
         )
+        self.dim_robot["couple_motor_statique"][0][
+            "coupleM3"
+        ] = self.df_couple_statique["coupleM3"]
         self.df_couple_statique["coupleM4"] = (
             self.df_size_robot["length_arm5"] * self.df_size_robot["weight_gripper"]
             + self.df_size_robot["length_arm5"] / 2 * self.df_size_robot["weight_arm5"]
@@ -87,6 +93,14 @@ class Robot:
             + (self.df_size_robot["length_arm5"] + self.df_size_robot["length_gripper"])
             * self.df_size_robot["weight_gripper"]
         )
+        self.dim_robot["couple_motor_statique"][0][
+            "coupleM4"
+        ] = self.df_couple_statique["coupleM4"]
+        print(self.dim_robot["couple_motor_statique"][0][
+            "coupleM4"
+        ][0])
+        # with open("dim_robot.json", "w") as jsonFile:
+        #     json.dump(self.dim_robot, jsonFile)
 
     def coupleDynamique(self, num_motor, inertie, acceleration, couple_resistif):
         self.df_couple_dynamique[f"couple{num_motor}"] = (
@@ -111,6 +125,6 @@ if __name__ == "__main__":
     robot1.changeWeightMotor(4, 7)
     robot1.changeWeightMotor(5, 1)
     pd.set_option("display.max_columns", None)
-    print(robot1.df_size_robot)
+    # print(robot1.df_size_robot)
     robot1.coupleStatique()
-    print(robot1.df_couple_statique)
+    # print(robot1.df_couple_statique)
