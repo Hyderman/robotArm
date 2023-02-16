@@ -21,31 +21,22 @@ struct GlobalTransformMatrix {
     std::array<std::array<float, 4>, 4> tGlobal;
 };
 
-struct JointAngle {
+struct JointAngles {
     std::array<float, 6> q;
 };
 
 class RobotKinematic {
   public:
-    RobotKinematic() = default;
-    RobotKinematic(DhParameters dh, JointAngle angle) : dh_(dh), angle_(angle) {}
-    void setDhParameters(const DhParameters& dh) {
-        dh_ = dh;
-    }
-
-    void setJointAngle(const JointAngle& angle) {
-        angle_ = angle;
-    }
-
-    void setTransformsMatrices(const DhParameters& dh, JointAngle& angle);
-
+    RobotKinematic(DhParameters dh, JointAngles angles)
+        : dhParams(dh), angles(angles) {}
+    void calculateTransformsMatrices();
     void calculateGlobalTransformMatrix();
 
   private:
-    DhParameters dh_;
-    JointAngle angle_;
-    std::array<TransformMatrix, 6> transformMatrices_;
-    GlobalTransformMatrix t0x_;
+    DhParameters dhParams;
+    JointAngles angles;
+    std::array<TransformMatrix, 6> transformMatrices;
+    GlobalTransformMatrix t0x;
 };
 
 template <typename T, size_t ROWS, size_t COLUMNS>
