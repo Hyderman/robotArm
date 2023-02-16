@@ -3,9 +3,8 @@
 #include <array>
 #include <cstring>
 
-void generalTransform(const DhParameters& dh,
-                      std::array<TransformMatrix, 6>& robotTransforms,
-                      JointAngle& angle) {
+void RobotKinematic::setTransformsMatrices(const DhParameters& dh, JointAngle& angle) {
+    std::array<TransformMatrix, 6> robotTransforms;
     for (size_t i = 0; i < 6; ++i) {
         float cq = cosf(angle.q[i]);
         float sq = sinf(angle.q[i]);
@@ -18,18 +17,17 @@ void generalTransform(const DhParameters& dh,
                                  {sq * salpha, cq * salpha, calpha, calpha * d},
                                  {0, 0, 0, 1}}};
     }
+    transformMatrices_ = robotTransforms;
 }
 
-void getGlobalTransformMatrix(const std::array<TransformMatrix, 6>& transformMatrices,
-                              globalTransformMatrix& t06) {
-    std::array<std::array<float, 4>, 4> t_tmp{transformMatrices[0].t};
-    std::array<std::array<float, 4>, 4> intermediateMatrix{};
+void RobotKinematic::calculateGlobalTransformMatrix() {
+    GlobalTransformMatrix t06 = {};
+    t06.tGlobal = transformMatrices_[0].t;
+
     for (size_t i = 0; i < 5; ++i) {
-        matrixProduct(t_tmp, transformMatrices[i + 1].t, intermediateMatrix);
-        t_tmp = intermediateMatrix;
-        if (i == 4) {
-            t06.tGlobal = t_tmp;
-        }
-        intermediateMatrix = {};
+        std::array<std::array<float, 4>, 4> t_tmp{};
+        matrixProduct(t06.tGlobal, transformMatrices_[i + 1].t, t_tmp);
+        t06.tGlobal = t_tmp;
     }
+    t0x_ = t06;
 }
