@@ -234,6 +234,134 @@
 			"compileCommandFragments" : 
 			[
 				{
+					"fragment" : "-g"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-mcpu=cortex-m4"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-mthumb"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-mfpu=fpv4-sp-d16"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-mfloat-abi=hard"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wpedantic"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wshadow"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wdouble-promotion"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wformat=2"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wformat-truncation"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wundef"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fno-common"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wno-unused-parameter"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Og"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-g3"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ggdb"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "STM32F401xE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "USE_HAL_DRIVER"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/RobotArm"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/UserApp"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/Core/Inc"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/Drivers/STM32F4xx_HAL_Driver/Inc"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/Drivers/CMSIS/Include"
+				}
+			],
+			"language" : "ASM",
+			"sourceIndexes" : 
+			[
+				19
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
 					"fragment" : "-fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -fno-rtti -fno-exceptions -fno-threadsafe-statics -g"
 				},
 				{
@@ -386,135 +514,6 @@
 			},
 			"sourceIndexes" : 
 			[
-				19,
-				21
-			]
-		},
-		{
-			"compileCommandFragments" : 
-			[
-				{
-					"fragment" : "-g"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-mcpu=cortex-m4"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-mthumb"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-mfpu=fpv4-sp-d16"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-mfloat-abi=hard"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-Wall"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-Wextra"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-Wpedantic"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-Wshadow"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-Wdouble-promotion"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-Wformat=2"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-Wformat-truncation"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-Wundef"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-fno-common"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-Wno-unused-parameter"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-Og"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-g3"
-				},
-				{
-					"backtrace" : 4,
-					"fragment" : "-ggdb"
-				}
-			],
-			"defines" : 
-			[
-				{
-					"backtrace" : 5,
-					"define" : "STM32F401xE"
-				},
-				{
-					"backtrace" : 5,
-					"define" : "USE_HAL_DRIVER"
-				}
-			],
-			"includes" : 
-			[
-				{
-					"backtrace" : 6,
-					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/RobotArm"
-				},
-				{
-					"backtrace" : 6,
-					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/UserApp"
-				},
-				{
-					"backtrace" : 7,
-					"isSystem" : true,
-					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/Core/Inc"
-				},
-				{
-					"backtrace" : 7,
-					"isSystem" : true,
-					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/Drivers/STM32F4xx_HAL_Driver/Inc"
-				},
-				{
-					"backtrace" : 7,
-					"isSystem" : true,
-					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
-				},
-				{
-					"backtrace" : 7,
-					"isSystem" : true,
-					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
-				},
-				{
-					"backtrace" : 7,
-					"isSystem" : true,
-					"path" : "C:/Users/logan/Documents/Programmation/robotArm/Firmware/Drivers/CMSIS/Include"
-				}
-			],
-			"language" : "ASM",
-			"sourceIndexes" : 
-			[
 				20
 			]
 		}
@@ -632,15 +631,14 @@
 				16,
 				17,
 				18,
-				19,
-				21
+				20
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				20
+				19
 			]
 		}
 	],
@@ -763,18 +761,12 @@
 		{
 			"backtrace" : 2,
 			"compileGroupIndex" : 1,
-			"path" : "RobotArm/kinematic.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 2,
-			"compileGroupIndex" : 2,
 			"path" : "CubeMx/startup_stm32f401xe.s",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 2,
-			"compileGroupIndex" : 1,
+			"compileGroupIndex" : 2,
 			"path" : "UserApp/initRobot.cpp",
 			"sourceGroupIndex" : 0
 		}

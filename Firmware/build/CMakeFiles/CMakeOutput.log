@@ -27,9 +27,9 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 The CXX compiler identification is GNU, found in "C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.o"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/CMakeScratch/TryCompile-k4gyls
+Change Dir: C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/CMakeScratch/TryCompile-sag2ej
 
-Run Build Command(s):C:/Users/logan/scoop/shims/ninja.exe cmTC_b9a8c && [1/2] Building C object CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.obj
+Run Build Command(s):C:/Users/logan/scoop/shims/ninja.exe cmTC_2949f && [1/2] Building C object CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.obj
 Using built-in specs.
 Reading specs from c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/nano.specs
 rename spec link to nano_link
@@ -41,8 +41,8 @@ Configured with: /data/jenkins/workspace/GNU-toolchain/arm-12/src/gcc/configure 
 Thread model: single
 Supported LTO compression algorithms: zlib
 gcc version 12.2.1 20221205 (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) 
-COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b9a8c.dir/'
- c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/cc1.exe -isystem =/include/newlib-nano -quiet -v -iprefix c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../lib/gcc/arm-none-eabi/12.2.1/ -isysroot c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../arm-none-eabi -D__USES_INITFINI__ C:/Users/logan/scoop/apps/cmake/3.25.2/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_b9a8c.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdata-sections -ffunction-sections -o C:\Users\logan\AppData\Local\Temp\cceSXfih.s
+COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2949f.dir/'
+ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/cc1.exe -isystem =/include/newlib-nano -quiet -v -iprefix c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../lib/gcc/arm-none-eabi/12.2.1/ -isysroot c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../arm-none-eabi -D__USES_INITFINI__ C:/Users/logan/scoop/apps/cmake/3.25.2/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_2949f.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdata-sections -ffunction-sections -o C:\Users\logan\AppData\Local\Temp\ccNdXU6a.s
 GNU C17 (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) version 12.2.1 20221205 (arm-none-eabi)
 	compiled by GNU C version 9.3-win32 20200320, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
 
@@ -64,13 +64,13 @@ GNU C17 (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) version 12.2.1 20221205 
 
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: 09cd87bee7d3ebbf93fc326691d67ce6
-COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b9a8c.dir/'
- c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.obj C:\Users\logan\AppData\Local\Temp\cceSXfih.s
+COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2949f.dir/'
+ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.obj C:\Users\logan\AppData\Local\Temp\ccNdXU6a.s
 GNU assembler version 2.39.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) 2.39.0.20221210
 COMPILER_PATH=c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/;c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/;c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/bin/
 LIBRARY_PATH=c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/;c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/;c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/;c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../arm-none-eabi/lib/
-COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.'
-[2/2] Linking C static library libcmTC_b9a8c.a
+COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.'
+[2/2] Linking C static library libcmTC_2949f.a
 
 
 
@@ -91,9 +91,9 @@ Parsed C implicit include dir info from above output: rv=done
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(arm-none-eabi-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/CMakeScratch/TryCompile-k4gyls]
+  ignore line: [Change Dir: C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/CMakeScratch/TryCompile-sag2ej]
   ignore line: []
-  ignore line: [Run Build Command(s):C:/Users/logan/scoop/shims/ninja.exe cmTC_b9a8c && [1/2] Building C object CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [Run Build Command(s):C:/Users/logan/scoop/shims/ninja.exe cmTC_2949f && [1/2] Building C object CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.obj]
   ignore line: [Using built-in specs.]
   ignore line: [Reading specs from c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/nano.specs]
   ignore line: [rename spec link to nano_link]
@@ -105,8 +105,8 @@ Parsed C implicit link information from above output:
   ignore line: [Thread model: single]
   ignore line: [Supported LTO compression algorithms: zlib]
   ignore line: [gcc version 12.2.1 20221205 (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b9a8c.dir/']
-  ignore line: [ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/cc1.exe -isystem =/include/newlib-nano -quiet -v -iprefix c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../lib/gcc/arm-none-eabi/12.2.1/ -isysroot c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../arm-none-eabi -D__USES_INITFINI__ C:/Users/logan/scoop/apps/cmake/3.25.2/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_b9a8c.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdata-sections -ffunction-sections -o C:\Users\logan\AppData\Local\Temp\cceSXfih.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2949f.dir/']
+  ignore line: [ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/cc1.exe -isystem =/include/newlib-nano -quiet -v -iprefix c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../lib/gcc/arm-none-eabi/12.2.1/ -isysroot c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../arm-none-eabi -D__USES_INITFINI__ C:/Users/logan/scoop/apps/cmake/3.25.2/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_2949f.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdata-sections -ffunction-sections -o C:\Users\logan\AppData\Local\Temp\ccNdXU6a.s]
   ignore line: [GNU C17 (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) version 12.2.1 20221205 (arm-none-eabi)]
   ignore line: [	compiled by GNU C version 9.3-win32 20200320  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
   ignore line: []
@@ -128,8 +128,8 @@ Parsed C implicit link information from above output:
   ignore line: []
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: 09cd87bee7d3ebbf93fc326691d67ce6]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b9a8c.dir/']
-  ignore line: [ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.obj C:\Users\logan\AppData\Local\Temp\cceSXfih.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2949f.dir/']
+  ignore line: [ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.obj C:\Users\logan\AppData\Local\Temp\ccNdXU6a.s]
   ignore line: [GNU assembler version 2.39.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) 2.39.0.20221210]
   ignore line: [COMPILER_PATH=c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/]
   ignore line: [c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/]
@@ -138,8 +138,8 @@ Parsed C implicit link information from above output:
   ignore line: [c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/]
   ignore line: [c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/]
   ignore line: [c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../arm-none-eabi/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b9a8c.dir/CMakeCCompilerABI.c.']
-  ignore line: [[2/2] Linking C static library libcmTC_b9a8c.a]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-v' '-o' 'CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2949f.dir/CMakeCCompilerABI.c.']
+  ignore line: [[2/2] Linking C static library libcmTC_2949f.a]
   ignore line: []
   ignore line: []
   implicit libs: []
@@ -149,9 +149,9 @@ Parsed C implicit link information from above output:
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/CMakeScratch/TryCompile-hbo1ju
+Change Dir: C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/CMakeScratch/TryCompile-04q8k3
 
-Run Build Command(s):C:/Users/logan/scoop/shims/ninja.exe cmTC_c2853 && [1/2] Building CXX object CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.obj
+Run Build Command(s):C:/Users/logan/scoop/shims/ninja.exe cmTC_2deeb && [1/2] Building CXX object CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.obj
 Using built-in specs.
 Reading specs from c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/nano.specs
 rename spec link to nano_link
@@ -163,8 +163,8 @@ Configured with: /data/jenkins/workspace/GNU-toolchain/arm-12/src/gcc/configure 
 Thread model: single
 Supported LTO compression algorithms: zlib
 gcc version 12.2.1 20221205 (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) 
-COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c2853.dir/'
- c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/cc1plus.exe -isystem =/include/newlib-nano -quiet -v -iprefix c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../lib/gcc/arm-none-eabi/12.2.1/ -isysroot c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../arm-none-eabi -D__USES_INITFINI__ C:/Users/logan/scoop/apps/cmake/3.25.2/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_c2853.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdata-sections -ffunction-sections -fno-rtti -fno-exceptions -fno-threadsafe-statics -o C:\Users\logan\AppData\Local\Temp\ccHIZWtm.s
+COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2deeb.dir/'
+ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/cc1plus.exe -isystem =/include/newlib-nano -quiet -v -iprefix c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../lib/gcc/arm-none-eabi/12.2.1/ -isysroot c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../arm-none-eabi -D__USES_INITFINI__ C:/Users/logan/scoop/apps/cmake/3.25.2/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_2deeb.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdata-sections -ffunction-sections -fno-rtti -fno-exceptions -fno-threadsafe-statics -o C:\Users\logan\AppData\Local\Temp\ccyPhqEi.s
 GNU C++17 (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) version 12.2.1 20221205 (arm-none-eabi)
 	compiled by GNU C version 9.3-win32 20200320, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
 
@@ -192,13 +192,13 @@ GNU C++17 (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) version 12.2.1 2022120
 
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: 4d2c90a3e8606aea6694b84ca09b7e5e
-COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c2853.dir/'
- c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.obj C:\Users\logan\AppData\Local\Temp\ccHIZWtm.s
+COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2deeb.dir/'
+ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.obj C:\Users\logan\AppData\Local\Temp\ccyPhqEi.s
 GNU assembler version 2.39.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) 2.39.0.20221210
 COMPILER_PATH=c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/;c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/;c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/bin/
 LIBRARY_PATH=c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/;c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/;c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/;c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../arm-none-eabi/lib/
-COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.'
-[2/2] Linking CXX static library libcmTC_c2853.a
+COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.'
+[2/2] Linking CXX static library libcmTC_2deeb.a
 
 
 
@@ -225,9 +225,9 @@ Parsed CXX implicit include dir info from above output: rv=done
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(arm-none-eabi-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/CMakeScratch/TryCompile-hbo1ju]
+  ignore line: [Change Dir: C:/Users/logan/Documents/Programmation/robotArm/Firmware/build/CMakeFiles/CMakeScratch/TryCompile-04q8k3]
   ignore line: []
-  ignore line: [Run Build Command(s):C:/Users/logan/scoop/shims/ninja.exe cmTC_c2853 && [1/2] Building CXX object CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [Run Build Command(s):C:/Users/logan/scoop/shims/ninja.exe cmTC_2deeb && [1/2] Building CXX object CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.obj]
   ignore line: [Using built-in specs.]
   ignore line: [Reading specs from c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/nano.specs]
   ignore line: [rename spec link to nano_link]
@@ -239,8 +239,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [Thread model: single]
   ignore line: [Supported LTO compression algorithms: zlib]
   ignore line: [gcc version 12.2.1 20221205 (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c2853.dir/']
-  ignore line: [ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/cc1plus.exe -isystem =/include/newlib-nano -quiet -v -iprefix c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../lib/gcc/arm-none-eabi/12.2.1/ -isysroot c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../arm-none-eabi -D__USES_INITFINI__ C:/Users/logan/scoop/apps/cmake/3.25.2/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_c2853.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdata-sections -ffunction-sections -fno-rtti -fno-exceptions -fno-threadsafe-statics -o C:\Users\logan\AppData\Local\Temp\ccHIZWtm.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2deeb.dir/']
+  ignore line: [ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/cc1plus.exe -isystem =/include/newlib-nano -quiet -v -iprefix c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../lib/gcc/arm-none-eabi/12.2.1/ -isysroot c:\users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\../arm-none-eabi -D__USES_INITFINI__ C:/Users/logan/scoop/apps/cmake/3.25.2/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_2deeb.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdata-sections -ffunction-sections -fno-rtti -fno-exceptions -fno-threadsafe-statics -o C:\Users\logan\AppData\Local\Temp\ccyPhqEi.s]
   ignore line: [GNU C++17 (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) version 12.2.1 20221205 (arm-none-eabi)]
   ignore line: [	compiled by GNU C version 9.3-win32 20200320  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
   ignore line: []
@@ -268,8 +268,8 @@ Parsed CXX implicit link information from above output:
   ignore line: []
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: 4d2c90a3e8606aea6694b84ca09b7e5e]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c2853.dir/']
-  ignore line: [ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.obj C:\Users\logan\AppData\Local\Temp\ccHIZWtm.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2deeb.dir/']
+  ignore line: [ c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.obj C:\Users\logan\AppData\Local\Temp\ccyPhqEi.s]
   ignore line: [GNU assembler version 2.39.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 12.2.Rel1 (Build arm-12.24)) 2.39.0.20221210]
   ignore line: [COMPILER_PATH=c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/arm-none-eabi/12.2.1/]
   ignore line: [c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../libexec/gcc/]
@@ -278,8 +278,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/]
   ignore line: [c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/]
   ignore line: [c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../arm-none-eabi/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_c2853.dir/CMakeCXXCompilerABI.cpp.']
-  ignore line: [[2/2] Linking CXX static library libcmTC_c2853.a]
+  ignore line: [COLLECT_GCC_OPTIONS='-fdata-sections' '-ffunction-sections' '-specs=nano.specs' '-fno-rtti' '-fno-exceptions' '-fno-threadsafe-statics' '-v' '-o' 'CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_2deeb.dir/CMakeCXXCompilerABI.cpp.']
+  ignore line: [[2/2] Linking CXX static library libcmTC_2deeb.a]
   ignore line: []
   ignore line: []
   implicit libs: []

@@ -21,20 +21,14 @@ struct GlobalTransformMatrix {
     std::array<std::array<float, 4>, 4> tGlobal;
 };
 
-struct JointAngles {
-    std::array<float, 6> q;
-};
-
 class RobotKinematic {
   public:
-    RobotKinematic(DhParameters dh, JointAngles angles)
-        : dhParams(dh), angles(angles) {}
-    void calculateTransformsMatrices();
-    void calculateGlobalTransformMatrix();
+    constexpr RobotKinematic(DhParameters dh) : dhParams(dh) {}
+    constexpr void calculateTransformsMatrices();
+    constexpr void calculateGlobalTransformMatrix();
 
   private:
     DhParameters dhParams;
-    JointAngles angles;
     std::array<TransformMatrix, 6> transformMatrices;
     GlobalTransformMatrix t0x;
 };
@@ -50,5 +44,31 @@ void matrixProduct(const std::array<std::array<T, COLUMNS>, ROWS>& matrix1,
                 resMatrix[i][j] += matrix1[i][k] * matrix2[k][j];
             }
         }
+    }
+}
+
+constexpr void RobotKinematic::calculateTransformsMatrices() {
+    for (size_t i = 0; i < 6; ++i) {
+        float cq = cosf(dhParams.theta[i]);
+        float sq = sinf(dhParams.theta[i]);
+        float calpha = cosf(dhParams.alpha[i]);
+        float salpha = sinf(dhParams.alpha[i]);
+        float a = dhParams.a[i];
+        float d = dhParams.d[i];
+        transformMatrices[i].t = {{{cq, -sq, 0, a},
+                                   {sq * calpha, cq * calpha, -salpha, -salpha * d},
+                                   {sq * salpha, cq * salpha, calpha, calpha * d},
+                                   {0, 0, 0, 1}}};
+    }
+}
+
+constexpr void RobotKinematic::calculateGlobalTransformMatrix() {
+    t0x = {};
+    t0x.tGlobal = transformMatrices[0].t;
+
+    for (size_t i = 0; i < 5; ++i) {
+        std::array<std::array<float, 4>, 4> t_tmp{};
+        matrixProduct(t0x.tGlobal, transformMatrices[i + 1].t, t_tmp);
+        t0x.tGlobal = t_tmp;
     }
 }
