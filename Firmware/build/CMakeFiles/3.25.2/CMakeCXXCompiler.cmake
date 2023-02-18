@@ -1,4 +1,4 @@
-set(CMAKE_CXX_COMPILER "C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-g++.exe")
+set(CMAKE_CXX_COMPILER "C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-g++.exe")
 set(CMAKE_CXX_COMPILER_ARG1 "")
 set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_CXX_COMPILER_VERSION "12.2.1")
@@ -22,11 +22,11 @@ set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-ar.exe")
-set(CMAKE_CXX_COMPILER_AR "C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc-ar.exe")
-set(CMAKE_RANLIB "C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-ranlib.exe")
-set(CMAKE_CXX_COMPILER_RANLIB "C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc-ranlib.exe")
-set(CMAKE_LINKER "C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-ld.exe")
+set(CMAKE_AR "C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-ar.exe")
+set(CMAKE_CXX_COMPILER_AR "C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc-ar.exe")
+set(CMAKE_RANLIB "C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-ranlib.exe")
+set(CMAKE_CXX_COMPILER_RANLIB "C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-gcc-ranlib.exe")
+set(CMAKE_LINKER "C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/bin/arm-none-eabi-ld.exe")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCXX 1)
 set(CMAKE_CXX_COMPILER_LOADED 1)
@@ -77,7 +77,7 @@ endif()
 
 
 
-set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/newlib-nano;C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/c++/12.2.1;C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/c++/12.2.1/arm-none-eabi;C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/c++/12.2.1/backward;C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/lib/gcc/arm-none-eabi/12.2.1/include;C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/lib/gcc/arm-none-eabi/12.2.1/include-fixed;C:/Users/logan/scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include")
+set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/newlib-nano;C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/c++/12.2.1;C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/c++/12.2.1/arm-none-eabi;C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include/c++/12.2.1/backward;C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/lib/gcc/arm-none-eabi/12.2.1/include;C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/lib/gcc/arm-none-eabi/12.2.1/include-fixed;C:/Users/Derman/scoop/apps/gcc-arm-none-eabi/current/arm-none-eabi/include")
 set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "")
 set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "")
 set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")

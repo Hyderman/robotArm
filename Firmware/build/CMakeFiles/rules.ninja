@@ -17,7 +17,7 @@
 rule ASM_COMPILER__firmware_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = C:\Users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\arm-none-eabi-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\Users\Derman\scoop\apps\gcc-arm-none-eabi\current\bin\arm-none-eabi-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building ASM object $out
 
 
@@ -27,7 +27,7 @@ rule ASM_COMPILER__firmware_Debug
 rule C_COMPILER__firmware_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = C:\Users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\arm-none-eabi-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\Users\Derman\scoop\apps\gcc-arm-none-eabi\current\bin\arm-none-eabi-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building C object $out
 
 
@@ -37,7 +37,7 @@ rule C_COMPILER__firmware_Debug
 rule CXX_COMPILER__firmware_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = C:\Users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\arm-none-eabi-g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\Users\Derman\scoop\apps\gcc-arm-none-eabi\current\bin\arm-none-eabi-g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -45,7 +45,7 @@ rule CXX_COMPILER__firmware_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__firmware_Debug
-  command = cmd.exe /C "$PRE_LINK && C:\Users\logan\scoop\apps\gcc-arm-none-eabi\current\bin\arm-none-eabi-g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && C:\Users\Derman\scoop\apps\gcc-arm-none-eabi\current\bin\arm-none-eabi-g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -62,7 +62,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\logan\scoop\apps\cmake\3.25.2\bin\cmake.exe --regenerate-during-build -SC:\Users\logan\Documents\Programmation\robotArm\Firmware -BC:\Users\logan\Documents\Programmation\robotArm\Firmware\build
+  command = C:\Users\Derman\scoop\apps\cmake\3.25.2\bin\cmake.exe --regenerate-during-build -S"C:\Users\Derman\Desktop\Nouveau dossier\robotArm\Firmware" -B"C:\Users\Derman\Desktop\Nouveau dossier\robotArm\Firmware\build"
   description = Re-running CMake...
   generator = 1
 
@@ -71,7 +71,7 @@ rule RERUN_CMAKE
 # Rule for re-checking globbed directories.
 
 rule VERIFY_GLOBS
-  command = C:\Users\logan\scoop\apps\cmake\3.25.2\bin\cmake.exe -P C:\Users\logan\Documents\Programmation\robotArm\Firmware\build\CMakeFiles\VerifyGlobs.cmake
+  command = C:\Users\Derman\scoop\apps\cmake\3.25.2\bin\cmake.exe -P "C:\Users\Derman\Desktop\Nouveau dossier\robotArm\Firmware\build\CMakeFiles\VerifyGlobs.cmake"
   description = Re-checking globbed directories...
   generator = 1
 
@@ -80,7 +80,7 @@ rule VERIFY_GLOBS
 # Rule for cleaning all built files.
 
 rule CLEAN
-  command = C:\Users\logan\scoop\shims\ninja.exe $FILE_ARG -t clean $TARGETS
+  command = C:\Users\Derman\scoop\shims\ninja.exe $FILE_ARG -t clean $TARGETS
   description = Cleaning all built files...
 
 
@@ -88,6 +88,6 @@ rule CLEAN
 # Rule for printing all primary targets available.
 
 rule HELP
-  command = C:\Users\logan\scoop\shims\ninja.exe -t targets
+  command = C:\Users\Derman\scoop\shims\ninja.exe -t targets
   description = All primary targets available:
 
