@@ -1,101 +1,101 @@
 Archive member included to satisfy reference by file (symbol)
 
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
                               CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj (cosf)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
                               CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj (sinf)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o) (__kernel_cosf)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o) (__kernel_sinf)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o) (__ieee754_rem_pio2f)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o) (fabsf)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o) (__kernel_rem_pio2f)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o) (scalbnf)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o) (floorf)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (exit)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (__sread)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (memset)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_close_r)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o) (errno)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o) (_impure_ptr)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_lseek_r)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_read_r)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_write_r)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o) (__kernel_cosf)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o) (__kernel_sinf)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o) (__ieee754_rem_pio2f)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o) (fabsf)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o) (__kernel_rem_pio2f)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o) (scalbnf)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o) (floorf)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (__sread)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_close_r)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o) (errno)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o) (_impure_ptr)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_lseek_r)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_read_r)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_write_r)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
                               CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj (memcpy)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o) (_free_r)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (_malloc_r)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o) (__malloc_lock)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (_fflush_r)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o) (_free_r)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (_malloc_r)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (_fflush_r)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
                               CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj (__aeabi_uldivmod)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o) (_close)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o) (_lseek)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o) (_read)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o) (_sbrk)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o) (_write)
-c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
-                              c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o) (_exit)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o) (_close)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o) (_lseek)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o) (_read)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o) (_write)
+c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                              c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o) (_exit)
 
 Discarded input sections
 
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  .rodata.all_implied_fbits
-                0x00000000       0x24 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x00000000       0x24 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  .data.__dso_handle
-                0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
- .text          0x00000000       0x7c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
- .ARM.extab     0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
- .ARM.exidx     0x00000000       0x10 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+                0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
  .debug_line_str
-                0x00000000       0xe3 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+                0x00000000       0xe3 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
  .ARM.attributes
-                0x00000000       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+                0x00000000       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
  .group         0x00000000        0xc CMakeFiles/firmware.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/firmware.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/firmware.dir/Core/Src/main.c.obj
@@ -714,8 +714,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_line    0x00000000     0x12b7 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_str     0x00000000    0x7d6c6 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_line    0x00000000     0x12ad CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_str     0x00000000    0x7d6c4 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_frame   0x00000000      0x188 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .ARM.attributes
@@ -812,8 +812,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
- .debug_line    0x00000000      0xe67 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
- .debug_str     0x00000000    0x7d480 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_line    0x00000000      0xe5d CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_str     0x00000000    0x7d47e CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_frame   0x00000000       0x74 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .ARM.attributes
@@ -920,8 +920,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
- .debug_line    0x00000000      0xa7a CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
- .debug_str     0x00000000    0x7d318 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_line    0x00000000      0xa70 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_str     0x00000000    0x7d316 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_frame   0x00000000       0xd4 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .ARM.attributes
@@ -1045,8 +1045,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
- .debug_line    0x00000000      0xbc8 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
- .debug_str     0x00000000    0x7d49c CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_line    0x00000000      0xbbe CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_str     0x00000000    0x7d49a CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_frame   0x00000000      0x168 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .ARM.attributes
@@ -1179,8 +1179,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
- .debug_line    0x00000000      0xc74 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
- .debug_str     0x00000000    0x7d5bf CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0xc6a CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000    0x7d5bd CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_frame   0x00000000      0x1dc CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .ARM.attributes
@@ -1265,8 +1265,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
- .debug_line    0x00000000      0x638 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
- .debug_str     0x00000000    0x7d0f1 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_line    0x00000000      0x62e CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x00000000    0x7d0ef CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .ARM.attributes
                 0x00000000       0x34 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
@@ -1370,8 +1370,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_line    0x00000000      0xb24 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_str     0x00000000    0x7d439 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_line    0x00000000      0xb1a CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_str     0x00000000    0x7d437 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .debug_frame   0x00000000       0xd8 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .ARM.attributes
@@ -1492,8 +1492,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
- .debug_line    0x00000000      0x86d CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
- .debug_str     0x00000000    0x7d4f4 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x863 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_str     0x00000000    0x7d4f2 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_frame   0x00000000      0x138 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .ARM.attributes
@@ -1602,8 +1602,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
- .debug_line    0x00000000      0x833 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
- .debug_str     0x00000000    0x7d46f CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_line    0x00000000      0x829 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_str     0x00000000    0x7d46d CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_frame   0x00000000       0xd0 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .ARM.attributes
@@ -1801,8 +1801,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
- .debug_line    0x00000000      0xa6f CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
- .debug_str     0x00000000    0x7d421 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000      0xa65 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000    0x7d41f CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_frame   0x00000000       0xa0 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .ARM.attributes
@@ -1887,8 +1887,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_line    0x00000000      0x62e CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_str     0x00000000    0x7d0e7 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_line    0x00000000      0x624 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_str     0x00000000    0x7d0e5 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .ARM.attributes
                 0x00000000       0x34 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
@@ -1972,8 +1972,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x85 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .debug_macro   0x00000000       0x89 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .debug_macro   0x00000000      0x126 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_line    0x00000000      0x631 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_str     0x00000000    0x7d0ea CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000      0x627 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000    0x7d0e8 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .ARM.attributes
                 0x00000000       0x34 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
@@ -2045,312 +2045,312 @@ Discarded input sections
  .data          0x00000000        0x0 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
  .bss           0x00000000        0x0 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
  .debug_macro   0x00000000       0x22 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
- .text.exit     0x00000000       0x24 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
- .debug_frame   0x00000000       0x28 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x24 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
- .text.std      0x00000000       0x6c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .text.stdio_exit_handler
-                0x00000000       0x18 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000       0x18 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .text.cleanup_stdio
-                0x00000000       0x40 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000       0x40 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .text.__fp_lock
-                0x00000000       0x18 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000       0x18 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .text.__fp_unlock
-                0x00000000       0x18 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000       0x18 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .text.global_stdio_init.part.0
-                0x00000000       0x3c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000       0x3c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .text.__sfp_lock_acquire
-                0x00000000        0xc c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000        0xc c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .text.__sfp_lock_release
-                0x00000000        0xc c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
- .text.__sfp    0x00000000       0xa4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
- .text.__sinit  0x00000000       0x30 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000        0xc c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .text.__fp_lock_all
-                0x00000000       0x1c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000       0x1c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .text.__fp_unlock_all
-                0x00000000       0x1c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
- .data.__sglue  0x00000000        0xc c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
- .bss.__sf      0x00000000      0x138 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000       0x1c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .bss.__stdio_exit_handler
-                0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
- .debug_frame   0x00000000      0x144 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000000      0x144 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
  .text._fwalk_sglue
-                0x00000000       0x3c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
- .debug_frame   0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+                0x00000000       0x3c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
- .text.__sread  0x00000000       0x22 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
  .text.__seofread
-                0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
  .text.__swrite
-                0x00000000       0x38 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
- .text.__sseek  0x00000000       0x24 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x00000000       0x38 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
  .text.__sclose
-                0x00000000        0x8 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
- .debug_frame   0x00000000       0x88 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x00000000        0x8 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
  .text._close_r
-                0x00000000       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
- .debug_frame   0x00000000       0x2c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+                0x00000000       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
  .text._reclaim_reent
-                0x00000000       0xac c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
- .bss.errno     0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
- .debug_frame   0x00000000       0x38 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+                0x00000000       0xac c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x38 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
  .data._impure_ptr
-                0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
  .data._impure_data
-                0x00000000       0x4c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x00000000       0x4c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
  .text._lseek_r
-                0x00000000       0x24 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
- .debug_frame   0x00000000       0x2c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+                0x00000000       0x24 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
- .text._read_r  0x00000000       0x24 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
- .debug_frame   0x00000000       0x2c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
  .text._write_r
-                0x00000000       0x24 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
- .debug_frame   0x00000000       0x2c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+                0x00000000       0x24 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_init
-                0x00000000        0x2 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x2 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_init_recursive
-                0x00000000        0x2 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x2 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_close
-                0x00000000        0x2 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x2 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_close_recursive
-                0x00000000        0x2 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x2 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_acquire
-                0x00000000        0x2 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x2 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_acquire_recursive
-                0x00000000        0x2 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x2 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_try_acquire
-                0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_try_acquire_recursive
-                0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_release
-                0x00000000        0x2 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x2 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .text.__retarget_lock_release_recursive
-                0x00000000        0x2 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x2 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .bss.__lock___arc4random_mutex
-                0x00000000        0x1 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x1 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .bss.__lock___dd_hash_mutex
-                0x00000000        0x1 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x1 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .bss.__lock___tz_mutex
-                0x00000000        0x1 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x1 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .bss.__lock___env_recursive_mutex
-                0x00000000        0x1 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x1 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .bss.__lock___malloc_recursive_mutex
-                0x00000000        0x1 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x1 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .bss.__lock___at_quick_exit_mutex
-                0x00000000        0x1 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x1 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .bss.__lock___atexit_recursive_mutex
-                0x00000000        0x1 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x1 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .bss.__lock___sfp_recursive_mutex
-                0x00000000        0x1 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
- .debug_frame   0x00000000       0xb0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000        0x1 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
- .text._free_r  0x00000000       0x94 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
- .debug_frame   0x00000000       0x38 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x38 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
  .text.sbrk_aligned
-                0x00000000       0x44 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00000000       0x44 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
  .text._malloc_r
-                0x00000000       0xf0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00000000       0xf0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
  .bss.__malloc_sbrk_start
-                0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
  .bss.__malloc_free_list
-                0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .debug_frame   0x00000000       0x4c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x4c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
  .text.__malloc_lock
-                0x00000000        0xc c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00000000        0xc c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
  .text.__malloc_unlock
-                0x00000000        0xc c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .debug_frame   0x00000000       0x30 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00000000        0xc c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
  .text.__sflush_r
-                0x00000000      0x108 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+                0x00000000      0x108 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
  .text._fflush_r
-                0x00000000       0x50 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
- .text.fflush   0x00000000       0x28 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
- .debug_frame   0x00000000       0x5c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+                0x00000000       0x50 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .text._sbrk_r  0x00000000       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .debug_frame   0x00000000       0x2c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
  .ARM.extab.text.__udivmoddi4
-                0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
- .text._close   0x00000000       0x10 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+                0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .text._close   0x00000000       0x10 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
  .gnu.warning._close
-                0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
- .debug_frame   0x00000000       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+                0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .debug_frame   0x00000000       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
- .text._lseek   0x00000000       0x10 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(close.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .text._lseek   0x00000000       0x10 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
  .gnu.warning._lseek
-                0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
- .debug_frame   0x00000000       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+                0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .debug_frame   0x00000000       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
- .text._read    0x00000000       0x10 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(lseek.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .text._read    0x00000000       0x10 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
  .gnu.warning._read
-                0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
- .debug_frame   0x00000000       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+                0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .debug_frame   0x00000000       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
- .text._sbrk    0x00000000       0x1c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(read.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x1c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
  .bss.heap_end.0
-                0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
- .debug_frame   0x00000000       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+                0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
- .text._write   0x00000000       0x10 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .text._write   0x00000000       0x10 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
  .gnu.warning._write
-                0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
- .debug_frame   0x00000000       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+                0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .debug_frame   0x00000000       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
- .text._exit    0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
- .debug_frame   0x00000000       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(write.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
  .ARM.attributes
-                0x00000000       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+                0x00000000       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
  .rodata.all_implied_fbits
-                0x00000000       0x24 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
- .eh_frame      0x00000000        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
- .text          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
- .data          0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
- .bss           0x00000000        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x00000000       0x24 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
 
 Memory Configuration
 
@@ -2361,11 +2361,11 @@ FLASH            0x08000000         0x00080000         xr
 
 Linker script and memory map
 
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crt0.o
 START GROUP
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a
 END GROUP
 LOAD CMakeFiles/firmware.dir/Core/Src/main.c.obj
 LOAD CMakeFiles/firmware.dir/Core/Src/stm32f4xx_hal_msp.c.obj
@@ -2388,26 +2388,26 @@ LOAD CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.
 LOAD CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
 LOAD CMakeFiles/firmware.dir/CubeMx/startup_stm32f401xe.s.obj
 LOAD CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
 START GROUP
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libg_nano.a
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libg_nano.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
 END GROUP
 START GROUP
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a
 END GROUP
 START GROUP
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libnosys.a
 END GROUP
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
                 0x20018000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
                 0x00000200                _Min_Heap_Size = 0x200
                 0x00000400                _Min_Stack_Size = 0x400
@@ -2422,20 +2422,20 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
 .text           0x08000194     0x1bac
                 0x08000194                . = ALIGN (0x4)
  *(.text)
- .text          0x08000194       0x30 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x08000194       0x30 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
                 0x08000194                __aeabi_uldivmod
- .text          0x080001c4        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x080001c4        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
                 0x080001c4                __aeabi_idiv0
                 0x080001c4                __aeabi_ldiv0
  *(.text*)
  .text.deregister_tm_clones
-                0x080001c8       0x1c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x080001c8       0x1c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  .text.register_tm_clones
-                0x080001e4       0x24 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x080001e4       0x24 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  .text.__do_global_dtors_aux
-                0x08000208       0x28 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08000208       0x28 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  .text.frame_dummy
-                0x08000230       0x24 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08000230       0x24 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  .text.Error_Handler
                 0x08000254        0x4 CMakeFiles/firmware.dir/Core/Src/main.c.obj
                 0x08000254                Error_Handler
@@ -2586,52 +2586,52 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
  .text.initInstance
                 0x08000cb8       0x64 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
                 0x08000cb8                initInstance
- .text.cosf     0x08000d1c       0x70 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+ .text.cosf     0x08000d1c       0x70 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
                 0x08000d1c                cosf
- .text.sinf     0x08000d8c       0x74 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+ .text.sinf     0x08000d8c       0x74 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
                 0x08000d8c                sinf
  .text.__kernel_cosf
-                0x08000e00      0x104 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+                0x08000e00      0x104 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
                 0x08000e00                __kernel_cosf
  .text.__kernel_sinf
-                0x08000f04       0x90 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+                0x08000f04       0x90 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
                 0x08000f04                __kernel_sinf
  .text.__ieee754_rem_pio2f
-                0x08000f94      0x260 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+                0x08000f94      0x260 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
                 0x08000f94                __ieee754_rem_pio2f
- .text.fabsf    0x080011f4       0x10 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+ .text.fabsf    0x080011f4       0x10 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
                 0x080011f4                fabsf
  .text.__kernel_rem_pio2f
-                0x08001204      0x67c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+                0x08001204      0x67c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
                 0x08001204                __kernel_rem_pio2f
- .text.scalbnf  0x08001880       0xe4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+ .text.scalbnf  0x08001880       0xe4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
                 0x08001880                scalbnf
- .text.floorf   0x08001964       0x94 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+ .text.floorf   0x08001964       0x94 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
                 0x08001964                floorf
- .text.memset   0x080019f8       0x10 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .text.memset   0x080019f8       0x10 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
                 0x080019f8                memset
  .text.__libc_init_array
-                0x08001a08       0x48 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+                0x08001a08       0x48 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
                 0x08001a08                __libc_init_array
- .text.memcpy   0x08001a50       0x1c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .text.memcpy   0x08001a50       0x1c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
                 0x08001a50                memcpy
  .text.__udivmoddi4
-                0x08001a6c      0x2bc c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08001a6c      0x2bc c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
                 0x08001a6c                __udivmoddi4
  *(.glue_7)
  .glue_7        0x08001d28        0x0 linker stubs
  *(.glue_7t)
  .glue_7t       0x08001d28        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08001d28        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x08001d28        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  *(.init)
- .init          0x08001d28        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .init          0x08001d28        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
                 0x08001d28                _init
- .init          0x08001d2c        0x8 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .init          0x08001d2c        0x8 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
  *(.fini)
- .fini          0x08001d34        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+ .fini          0x08001d34        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
                 0x08001d34                _fini
- .fini          0x08001d38        0x8 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .fini          0x08001d38        0x8 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
                 0x08001d40                . = ALIGN (0x4)
                 0x08001d40                _etext = .
 
@@ -2642,7 +2642,7 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
  .v4_bx         0x08001d40        0x0 linker stubs
 
 .iplt           0x08001d40        0x0
- .iplt          0x08001d40        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .iplt          0x08001d40        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
 
 .rodata         0x08001d40      0x440
                 0x08001d40                . = ALIGN (0x4)
@@ -2653,12 +2653,12 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
                 0x08001da0       0x10 CMakeFiles/firmware.dir/Core/Src/system_stm32f4xx.c.obj
                 0x08001da0                AHBPrescTable
  .rodata.npio2_hw
-                0x08001db0       0x80 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+                0x08001db0       0x80 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
  .rodata.two_over_pi
-                0x08001e30      0x318 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
- .rodata.PIo2   0x08002148       0x2c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+                0x08001e30      0x318 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .rodata.PIo2   0x08002148       0x2c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
  .rodata.init_jk
-                0x08002174        0xc c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+                0x08002174        0xc c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
                 0x08002180                . = ALIGN (0x4)
 
 .ARM.extab
@@ -2668,11 +2668,11 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
                 0x08002180                __exidx_start = .
  *(.ARM.exidx*)
  .ARM.exidx.text.__udivmoddi4
-                0x08002180        0x8 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08002180        0x8 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
                 0x08002188                __exidx_end = .
 
 .rel.dyn        0x08002188        0x0
- .rel.iplt      0x08002188        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rel.iplt      0x08002188        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
 
 .preinit_array  0x08002188        0x0
                 0x08002188                PROVIDE (__preinit_array_start = .)
@@ -2683,14 +2683,14 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
                 0x08002188                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x08002188        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .init_array    0x08002188        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
                 0x0800218c                PROVIDE (__init_array_end = .)
 
 .fini_array     0x0800218c        0x4
                 [!provide]                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0800218c        0x4 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .fini_array    0x0800218c        0x4 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
                 [!provide]                PROVIDE (__fini_array_end = .)
                 0x08002190                _sidata = LOADADDR (.data)
 
@@ -2715,12 +2715,12 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
 .tm_clone_table
                 0x2000000c        0x0 load address 0x0800219c
  .tm_clone_table
-                0x2000000c        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x2000000c        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  .tm_clone_table
-                0x2000000c        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+                0x2000000c        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
 
 .igot.plt       0x2000000c        0x0 load address 0x0800219c
- .igot.plt      0x2000000c        0x0 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .igot.plt      0x2000000c        0x0 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
                 0x2000000c                . = ALIGN (0x4)
 
 .bss            0x2000000c       0x20 load address 0x0800219c
@@ -2729,9 +2729,9 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
  *(.bss)
  *(.bss*)
  .bss.completed.1
-                0x2000000c        0x1 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x2000000c        0x1 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  *fill*         0x2000000d        0x3 
- .bss.object.0  0x20000010       0x18 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss.object.0  0x20000010       0x18 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  .bss.uwTick    0x20000028        0x4 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
                 0x20000028                uwTick
  *(COMMON)
@@ -2760,9 +2760,9 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
                 0x00000000       0x30
  *(.ARM.attributes)
  .ARM.attributes
-                0x00000000       0x22 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x00000000       0x22 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crti.o
  .ARM.attributes
-                0x00000022       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x00000022       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtbegin.o
  .ARM.attributes
                 0x00000056       0x34 CMakeFiles/firmware.dir/Core/Src/main.c.obj
  .ARM.attributes
@@ -2782,46 +2782,46 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
  .ARM.attributes
                 0x000001e3       0x34 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
  .ARM.attributes
-                0x00000217       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+                0x00000217       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
  .ARM.attributes
-                0x0000024b       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+                0x0000024b       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
  .ARM.attributes
-                0x0000027f       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+                0x0000027f       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
  .ARM.attributes
-                0x000002b3       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+                0x000002b3       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
  .ARM.attributes
-                0x000002e7       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+                0x000002e7       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
  .ARM.attributes
-                0x0000031b       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+                0x0000031b       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
  .ARM.attributes
-                0x0000034f       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+                0x0000034f       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
  .ARM.attributes
-                0x00000383       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+                0x00000383       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
  .ARM.attributes
-                0x000003b7       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+                0x000003b7       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
  .ARM.attributes
-                0x000003eb       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+                0x000003eb       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
  .ARM.attributes
-                0x0000041f       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+                0x0000041f       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
  .ARM.attributes
-                0x00000453       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+                0x00000453       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
  .ARM.attributes
-                0x00000487       0x22 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x00000487       0x22 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
  .ARM.attributes
-                0x000004a9       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x000004a9       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
  .ARM.attributes
-                0x000004dd       0x22 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x000004dd       0x22 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
-                0x000004ff       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
+                0x000004ff       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtend.o
  .ARM.attributes
-                0x00000533       0x22 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x00000533       0x22 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard/crtn.o
 OUTPUT(firmware.elf elf32-littlearm)
 LOAD linker stubs
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc.a
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a
-LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a
 
-.debug_info     0x00000000     0x513f
+.debug_info     0x00000000     0x5149
  .debug_info    0x00000000      0x568 CMakeFiles/firmware.dir/Core/Src/main.c.obj
  .debug_info    0x00000568      0x291 CMakeFiles/firmware.dir/Core/Src/stm32f4xx_hal_msp.c.obj
  .debug_info    0x000007f9      0x120 CMakeFiles/firmware.dir/Core/Src/stm32f4xx_it.c.obj
@@ -2830,7 +2830,7 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
  .debug_info    0x0000179c      0xeef CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .debug_info    0x0000268b      0xab4 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
  .debug_info    0x0000313f       0x2e CMakeFiles/firmware.dir/CubeMx/startup_stm32f401xe.s.obj
- .debug_info    0x0000316d     0x1fd2 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
+ .debug_info    0x0000316d     0x1fdc CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
 
 .debug_abbrev   0x00000000     0x10a9
  .debug_abbrev  0x00000000      0x1d5 CMakeFiles/firmware.dir/Core/Src/main.c.obj
@@ -2987,36 +2987,36 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
  .debug_macro   0x00016ba4       0x17 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
  .debug_macro   0x00016bbb       0x10 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
 
-.debug_line     0x00000000     0x4df7
- .debug_line    0x00000000      0x764 CMakeFiles/firmware.dir/Core/Src/main.c.obj
- .debug_line    0x00000764      0x643 CMakeFiles/firmware.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_line    0x00000da7      0x738 CMakeFiles/firmware.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_line    0x000014df      0x6f8 CMakeFiles/firmware.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_line    0x00001bd7      0x99c CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_line    0x00002573      0xc78 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_line    0x000031eb      0xf2d CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_line    0x00004118       0x7a CMakeFiles/firmware.dir/CubeMx/startup_stm32f401xe.s.obj
- .debug_line    0x00004192      0xc65 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
+.debug_line     0x00000000     0x4da2
+ .debug_line    0x00000000      0x759 CMakeFiles/firmware.dir/Core/Src/main.c.obj
+ .debug_line    0x00000759      0x639 CMakeFiles/firmware.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x00000d92      0x72e CMakeFiles/firmware.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_line    0x000014c0      0x6ee CMakeFiles/firmware.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_line    0x00001bae      0x992 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_line    0x00002540      0xc6e CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_line    0x000031ae      0xf23 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_line    0x000040d1       0x7a CMakeFiles/firmware.dir/CubeMx/startup_stm32f401xe.s.obj
+ .debug_line    0x0000414b      0xc57 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
 
-.debug_str      0x00000000    0x8962c
- .debug_str     0x00000000    0x7d157 CMakeFiles/firmware.dir/Core/Src/main.c.obj
-                              0x7d3e1 (size before relaxing)
- .debug_str     0x0007d157       0x63 CMakeFiles/firmware.dir/Core/Src/stm32f4xx_hal_msp.c.obj
-                              0x7d20e (size before relaxing)
- .debug_str     0x0007d1ba      0x100 CMakeFiles/firmware.dir/Core/Src/stm32f4xx_it.c.obj
-                              0x7d182 (size before relaxing)
- .debug_str     0x0007d2ba      0x112 CMakeFiles/firmware.dir/Core/Src/system_stm32f4xx.c.obj
-                              0x7d2be (size before relaxing)
- .debug_str     0x0007d3cc      0x9f6 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                              0x7dce0 (size before relaxing)
- .debug_str     0x0007ddc2      0x39c CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                              0x7da01 (size before relaxing)
- .debug_str     0x0007e15e      0x2fc CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                              0x7d703 (size before relaxing)
- .debug_str     0x0007e45a       0x73 CMakeFiles/firmware.dir/CubeMx/startup_stm32f401xe.s.obj
-                                 0xb3 (size before relaxing)
- .debug_str     0x0007e4cd     0xb15f CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
-                               0xe5ec (size before relaxing)
+.debug_str      0x00000000    0x89622
+ .debug_str     0x00000000    0x7d155 CMakeFiles/firmware.dir/Core/Src/main.c.obj
+                              0x7d3df (size before relaxing)
+ .debug_str     0x0007d155       0x62 CMakeFiles/firmware.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                              0x7d20c (size before relaxing)
+ .debug_str     0x0007d1b7       0xff CMakeFiles/firmware.dir/Core/Src/stm32f4xx_it.c.obj
+                              0x7d180 (size before relaxing)
+ .debug_str     0x0007d2b6      0x111 CMakeFiles/firmware.dir/Core/Src/system_stm32f4xx.c.obj
+                              0x7d2bc (size before relaxing)
+ .debug_str     0x0007d3c7      0x9f5 CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                              0x7dcde (size before relaxing)
+ .debug_str     0x0007ddbc      0x39b CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                              0x7d9ff (size before relaxing)
+ .debug_str     0x0007e157      0x2fb CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                              0x7d701 (size before relaxing)
+ .debug_str     0x0007e452       0x72 CMakeFiles/firmware.dir/CubeMx/startup_stm32f401xe.s.obj
+                                 0xb1 (size before relaxing)
+ .debug_str     0x0007e4c4     0xb15e CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
+                               0xe5ea (size before relaxing)
 
 .comment        0x00000000       0x45
  .comment       0x00000000       0x45 CMakeFiles/firmware.dir/Core/Src/main.c.obj
@@ -3038,20 +3038,20 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
  .debug_frame   0x00000344      0x1cc CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .debug_frame   0x00000510      0x16c CMakeFiles/firmware.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
  .debug_frame   0x0000067c       0xa8 CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
- .debug_frame   0x00000724       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
- .debug_frame   0x00000758       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
- .debug_frame   0x0000078c       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
- .debug_frame   0x000007ac       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
- .debug_frame   0x000007cc       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
- .debug_frame   0x00000800       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
- .debug_frame   0x00000820       0x5c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
- .debug_frame   0x0000087c       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
- .debug_frame   0x0000089c       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
- .debug_frame   0x000008bc       0x20 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
- .debug_frame   0x000008dc       0x2c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
- .debug_frame   0x00000908       0x28 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
- .debug_frame   0x00000930       0x2c c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x0000095c       0x34 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000724       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_cos.o)
+ .debug_frame   0x00000758       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_sin.o)
+ .debug_frame   0x0000078c       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_cos.o)
+ .debug_frame   0x000007ac       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_sin.o)
+ .debug_frame   0x000007cc       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-ef_rem_pio2.o)
+ .debug_frame   0x00000800       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_fabs.o)
+ .debug_frame   0x00000820       0x5c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-kf_rem_pio2.o)
+ .debug_frame   0x0000087c       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_scalbn.o)
+ .debug_frame   0x0000089c       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libm.a(libm_a-sf_floor.o)
+ .debug_frame   0x000008bc       0x20 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x000008dc       0x2c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .debug_frame   0x00000908       0x28 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00000930       0x2c c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000095c       0x34 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
 
 .debug_loclists
                 0x00000000      0xdb1
@@ -3067,11 +3067,11 @@ LOAD c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-non
                 0x00000986      0x42b CMakeFiles/firmware.dir/UserApp/initRobot.cpp.obj
 
 .debug_line_str
-                0x00000000      0x16c
+                0x00000000      0x16a
  .debug_line_str
-                0x00000000       0x97 CMakeFiles/firmware.dir/CubeMx/startup_stm32f401xe.s.obj
+                0x00000000       0x95 CMakeFiles/firmware.dir/CubeMx/startup_stm32f401xe.s.obj
  .debug_line_str
-                0x00000097       0xc9 c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x00000095       0xc9 c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
  .debug_line_str
-                0x00000160        0xc c:/users/derman/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x0000015e        0xc c:/users/logan/scoop/apps/gcc-arm-none-eabi/current/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
                                  0xcd (size before relaxing)
